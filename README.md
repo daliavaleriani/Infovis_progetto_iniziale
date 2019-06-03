@@ -19,4 +19,4 @@ In seguito aprire il borwser di riferimento e digitare http/localhost:[porta]
 
 Il progetto è stato eseguito sui seguenti browser:
 - Chrome
--Firefox
+- Firefox
