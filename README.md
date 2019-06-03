@@ -1,5 +1,5 @@
 # Infovis_progetto_iniziale
-Progetto di Visualizzazione delle informazioni, Università Roma Tre, a.a. 2018-2019, svolto da Dalia Valeriani matricola 475277.
+Progetto di Visualizzazione delle informazioni, Università Roma Tre, a.a. 2018-2019, svolto da **Dalia Valeriani matricola 475277**.
 
 
 
@@ -23,9 +23,9 @@ E' stata inserita un'ulteriore funzionalità, seppur non richiesta, per migliora
 
 ## Sviluppo in locale
 
-Il progetto può essere eseguito lanciando il comando python -m SimpleHTTPServer [porta] &
+Il progetto può essere eseguito lanciando il comando python``` -m SimpleHTTPServer [porta] &```
 
-In seguito aprire il borwser di riferimento e digitare http/localhost:[porta]
+In seguito aprire il borwser di riferimento e digitare ```http/localhost:[porta]```
 
 ## Note Progetto
 
