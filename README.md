@@ -1,5 +1,5 @@
 # Infovis_progetto_iniziale
-Progetto di Visualizzazione delle informazioni, Università Roma Tre, a.a. 2018-2019, svolto da **Dalia Valeriani matricola 475277**.
+Progetto di Visualizzazione delle informazioni, Università Roma Tre, a.a. 2018-2019, svolto da **Dalia Valeriani** matricola **475277**.
 
 
 
