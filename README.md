@@ -16,7 +16,7 @@ La versione di d3.js utilizzata è la v3.
 
 ## Funzionalità aggiuntive
 
-E' stata inserita un'ulteriore funzionalità , seppur non richiesta, per migliorare la visualizzazione del progetto:
+E' stata inserita un'ulteriore funzionalità, seppur non richiesta, per migliorare la visualizzazione del progetto:
 
 - Passando con il mouse su qualsiasi sezione della barra, la stessa si evidenzia con un leggero effetto di opacità al suo interno.
 
