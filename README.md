@@ -24,6 +24,7 @@ E' stata inserita un'ulteriore funzionalità , seppur non richiesta, per miglior
 ## Sviluppo in locale
 
 Il progetto può essere eseguito lanciando il comando python -m SimpleHTTPServer [porta] &
+
 In seguito aprire il borwser di riferimento e digitare http/localhost:[porta]
 
 ## Note Progetto
