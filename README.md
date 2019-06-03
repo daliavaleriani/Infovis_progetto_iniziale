@@ -35,6 +35,6 @@ Il progetto è stato eseguito sui seguenti browser:
 
 ## Anteprima Grafica 
 
-![alt text](https://github.com/daliavaleriani/Infovis_progetto_iniziale/progetto_Ultimato/Immagine/anteprimaStackedBar.png)
+![alt text](https://github.com/daliavaleriani/Infovis_progetto_iniziale/progetto_Ultimato/Immagine/AnteprimaStackedBar.png)
 
 
